@@ -1,5 +1,5 @@
 # Starter Web Repo
-simple text.Adgg
+simple textdgg
 ## Introduction
 simle text
 ## Purpose
